@@ -8,7 +8,7 @@
 
 15.07.2020 Saat:18.00
 
-# twitteR Paketi vee Kelime Bulutu Örneği
+# twitteR Paketi ve Kelime Bulutu Örneği
 
 ## Esin Ak
 
